@@ -2,15 +2,15 @@
 
 Simple android project to demo creating a textured Sphere in *OpenGL*.
 
-See [my website](http://www.jimscosmos.com/code/android-open-gl-texture-mapped-spheres/) for details.
+See [my website](https://www.jimscosmos.com/androidopengltexturemappedspheres)
 
 ## Release history
 
 ### V1.3 - 15th May 2016
-Sorting out git tagging, nothing done really. 
+Sorting out git tagging, nothing done really.
 
 ### V1.2 - 14th May 2016
-Minor tweaks for forking into two new projects which add touch support. 
+Minor tweaks for forking into two new projects which add touch support.
 
 ### V1.1 - 9th April 2015
 Latest version includes a fix for some devices which show the texture as a white box.
